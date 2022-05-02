@@ -5,7 +5,7 @@
         %   how to generate masks including brain surface voxels %
         %                  described in                          %
         %'Phase-based masking for QSM of the human brain at 9.4T'%
-        %Hagberg GE et al submitted September 2021, MagnResonMed %
+        %Hagberg GE et al, MagnResonMed 2022                     %
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 The provided material can be used in different ways
